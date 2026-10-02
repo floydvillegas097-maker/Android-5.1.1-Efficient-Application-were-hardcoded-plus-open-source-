@@ -1,0 +1,2 @@
+# Android-5.1.1-Efficient-Application-were-hardcoded-plus-open-source-
+I've been developing some application that is really well optimized and efficient with open source , application that uses less ram and has a bare minimum file size of 50kb , i've been developing neccessary Foreground service and Background service such as keyboard and home launcher , which runs under 10mb ram and little file size R8 optimized.
